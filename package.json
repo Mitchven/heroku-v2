@@ -1,0 +1,25 @@
+{
+  "name": "heroku-v2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mitchven/heroku-v2.git"
+  },
+  "author": "Ma.Lyn Gamboa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mitchven/heroku-v2/issues"
+  },
+  "homepage": "https://github.com/Mitchven/heroku-v2#readme",
+  "engines": {
+    "node": "10.15"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
