@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/Mitchven/heroku-v2#readme",
   "engines": {
-    "node": "10.15"
+    "node": "10.16"
   },
   "dependencies": {
     "express": "^4.17.1"
